@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acxdc
 - 👀 I’m interested in creating web apps and other platform applications.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning C#, JavaScript, and Python.
 - 💞️ I’m looking to collaborate on anything that will help me sharpen my C# skills.
 
 <!---
